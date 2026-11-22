@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I'm currently working on Data Engineering projects and building data pipelines.<br><br>💡 I'm looking to collaborate on Data Engineering and Big Data projects.<br><br>🤝 I'm looking for help with advanced Data Engineering concepts and best practices.<br><br>🌱 I'm currently learning Azure, Apache Spark, Kafka, Airflow, and dbt.<br><br>💬 Ask me about SQL, Python, Data Engineering, and ETL Pipelines.<br><br>⚡ Fun fact: I enjoy learning new technologies and turning raw data into meaningful insights.
+# <img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/a9319dc8-665b-4afd-a0ab-d329bf1514c0" />   Hi, I'm Eslam Mohamed, Data Engineering
+
+# ⭐ About Me:
+I'm a Computer Science student passionate about Data Engineering and building scalable data solutions. Currently exploring Azure, Apache Spark, Kafka, Airflow, and dbt while developing my skills in SQL, Python, ETL pipelines, and Big Data technologies. I'm always eager to learn, collaborate on interesting projects, and turn raw data into meaningful insights.
 
 
 ## 🌐 Socials:
