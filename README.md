@@ -1,6 +1,6 @@
-# <img width="120" height="117" alt="image" src="https://github.com/user-attachments/assets/a9319dc8-665b-4afd-a0ab-d329bf1514c0" />   Hi, I'm Eslam Mohamed, Data Engineering
+# <img width="70" height="66" alt="image" src="https://github.com/user-attachments/assets/a9319dc8-665b-4afd-a0ab-d329bf1514c0" />   Hi, I'm Eslam Mohamed, Data Engineering
 
-# ⭐ About Me:
+## ⭐ About Me:
 I'm a Computer Science student passionate about Data Engineering and building scalable data solutions. Currently exploring Azure, Apache Spark, Kafka, Airflow, and dbt while developing my skills in SQL, Python, ETL pipelines, and Big Data technologies. I'm always eager to learn, collaborate on interesting projects, and turn raw data into meaningful insights.
 
 
