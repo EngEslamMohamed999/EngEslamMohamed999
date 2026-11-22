@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />  Hi, I'm Eslam Mohamed, Data Engineering
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />  Hi, I'm Eslam Mohamed, Data Engineering
 
 ## ⭐ About Me:
 I'm a Computer Science student passionate about Data Engineering and building scalable data solutions. Currently exploring Azure, Apache Spark, Kafka, Airflow, and dbt while developing my skills in SQL, Python, ETL pipelines, and Big Data technologies. I'm always eager to learn, collaborate on interesting projects, and turn raw data into meaningful insights.
